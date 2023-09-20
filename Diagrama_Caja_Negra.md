@@ -10,3 +10,7 @@ A continuación se adjunta el enlace al diagrama de caja negra propuesto para es
 [Diagrama de Caja Negra: SECADORA DE POLEN](https://excalidraw.com/#room=6dc6f7d8cb639ba8718a,giMHPa4VWY9nrL5oBvSNzA)
 
 ![DIAGRAMA_CAJA_NEGRA](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Diagrama_Caja_Negra.png)
+
+Se realizan las correcciones pertinentes de acuerdo a los comentarios y recomendaciones del Ingeniero Johnny Cubides.
+
+
