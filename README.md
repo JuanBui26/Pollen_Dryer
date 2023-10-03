@@ -28,7 +28,7 @@ Se adjunta una referencia de cómo se esperaría que finalizara el proyecto.
 
 
 
-Del mismo modo, se da la dirección para poder dirigirse a los diagramas de Caja Negra, Diagrama Tdcnol+ogico y sus
+Del mismo modo, se da la dirección para poder dirigirse a los diagramas de Caja Negra, Diagrama Tecnológico y sus
 correciones.
 
 - [Complementos]()
