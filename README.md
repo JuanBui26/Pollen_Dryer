@@ -2,13 +2,25 @@
 
 ## Descripción
 
-
+Una secadora de polen ("pollen dryer") es un dispositivo utilizado en la industria agrícola y de la botánica para secar el
+polen de las flores y plantas de manera controlada. El polen seco se utiliza a menudo en la reproducción de plantas, la
+investigación genética y otros fines científicos.
 
 ## Demostración
 
 En este apartado de adjuntan las ideas generales de donde se adaptó el proyecto en general.
 
+- [Pollen Dryers](https://koniginshop.com/en/170-pollen-dryers)
 
+- [Pollen Drying and Processing](https://www.youtube.com/watch?v=XNUeOaqBAu0)
+
+Estos archivos y videos son a nivel industrial y de industria extranjera. Como parte del interés por el proyecto, el equipo
+se tomó el tiempo de ir a la planta en Bogotá, [Comapis Apicultura](https://comapis.com/), en la que el cliente mencionó sus
+requerimientos y necesidades para su propia secadora de Polen.
+
+Aquí mismo se muestra el trabajo de investigación realizado en la planta:
+
+- [Planta Principal]()
 
 ## Anexos
 
