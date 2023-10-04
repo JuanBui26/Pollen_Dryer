@@ -107,22 +107,22 @@ Cabe mencionar que los diseños específicos y las características de una secad
 
 Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo Sostenible encontramos los siguientes:
 
-- # [2. Hambre Cero:](https://www.un.org/sustainabledevelopment/es/hunger/)
+- ### [2. Hambre Cero:](https://www.un.org/sustainabledevelopment/es/hunger/)
 Una secadora de polen puede ser utilizada en la producción de alimentos, especialmente en la agricultura, para mejorar la calidad y cantidad de cultivos. Esto contribuye a la seguridad alimentaria y al ODS 2, que se centra en la erradicación del hambre y la malnutrición.
 
-- # [9. Industria, Innovación e Infraestructura:](https://www.un.org/sustainabledevelopment/es/infrastructure/)
+- ### [9. Industria, Innovación e Infraestructura:](https://www.un.org/sustainabledevelopment/es/infrastructure/)
 El desarrollo y la mejora de tecnologías como las secadoras de polen son ejemplos de innovación y desarrollo de infraestructuras que pueden apoyar la agricultura sostenible y la investigación científica.
 
-- # [12. Producción y Consumo Responsables:](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/)
+- ### [12. Producción y Consumo Responsables:](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/)
 El uso de tecnología para el secado de polen puede ayudar a reducir el desperdicio de recursos, ya que permite una mejor conservación y utilización de los recursos genéticos de las plantas. Esto promueve prácticas agrícolas más sostenibles y la gestión responsable de los recursos naturales.
 
-- # [13. Acción por el Clima:](https://www.un.org/sustainabledevelopment/es/climate-change-2/)
+- ### [13. Acción por el Clima:](https://www.un.org/sustainabledevelopment/es/climate-change-2/)
 La conservación de la biodiversidad vegetal y la investigación sobre el polen pueden ser esenciales para comprender y mitigar los efectos del cambio climático en la agricultura y los ecosistemas. El estudio del polen puede ayudar a rastrear cambios históricos en el clima y sus impactos en las plantas.
 
-- # [15. Vida de Ecosistemas Terrestres:](https://www.un.org/sustainabledevelopment/es/biodiversity/)
+- ### [15. Vida de Ecosistemas Terrestres:](https://www.un.org/sustainabledevelopment/es/biodiversity/)
 La polinización es un proceso clave para la reproducción de muchas especies de plantas, y la conservación de polinizadores y la preservación de la biodiversidad vegetal son fundamentales para la salud de los ecosistemas terrestres.
 
-- # [17. Alianzas para Lograr los Objetivos:](https://www.un.org/sustainabledevelopment/es/globalpartnerships/)
+- ### [17. Alianzas para Lograr los Objetivos:](https://www.un.org/sustainabledevelopment/es/globalpartnerships/)
 La colaboración entre sectores, incluyendo la botánica, la biotecnología y la ingeniería, es esencial para abordar los desafíos relacionados con el polen. La cooperación y las alianzas son fundamentales para alcanzar muchos de los ODS.
 
   ## Ingenia Futuro
