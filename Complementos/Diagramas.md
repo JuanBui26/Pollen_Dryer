@@ -17,13 +17,9 @@ A continuación se adjunta el enlace al diagrama de caja negra propuesto para es
 A este Diagrama se le encontró varios errores por lo que, de acuerdo a las instrucciones e indicaciones del Ingeniero Johnny,
 se acomodó de la siguiente forma:
 
-- [Corrección Diagrama de Caja Negra]()
+- [Corrección Diagrama de Caja Negra](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Complementos/Diagrama_Caja_Negra_Corregido.png)
 
-![Corrección Diagrama de Caja Negra: Secador de Polen]()
-
-- [Corrección de Componentes]()
-
-![Corrección_1_Secador de Polen]()
+![Corrección Diagrama de Caja Negra: Secador de Polen](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Complementos/Diagrama_Caja_Negra_Corregido.png)
 
 - [Corrección Diagrama Tecnológico]()
 
