@@ -142,7 +142,10 @@ La colaboración entre sectores, incluyendo la botánica, la biotecnología y la
   Los siguientes enlaces redirigen a las páginas de donde se adaptó la información.
 
    ### Automatización
-   
+   - https://www.redhat.com/es/topics/automation
+   - https://www.ibm.com/es-es/topics/automation
+   - https://ripipsacobots.com/automatizacion/
+   - http://www.sc.ehu.es/sbweb/webcentro/automatica/WebCQMH1/PAGINA%20PRINCIPAL/Automatizacion/Automatizacion.htm
    
    ### Objetivos de Desarrollo Sostenible
   - https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
@@ -150,6 +153,5 @@ La colaboración entre sectores, incluyendo la botánica, la biotecnología y la
    ### Polinización
    
    - https://biodiversidad.gob.mx/ecosistemas/procesose/polinizacion/
-
-     
-   ### Robótica
+   - https://www.polinizadores.com/ar/polinizacion
+   - https://www.worldwildlife.org/descubre-wwf/historias/3-cosas-que-puedes-hacer-para-ayudar-a-los-polinizadores-de-tu-localidad
