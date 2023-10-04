@@ -31,7 +31,7 @@ Se adjunta una referencia de cómo se esperaría que finalizara el proyecto.
 Del mismo modo, se da la dirección para poder dirigirse a los diagramas de Caja Negra, Diagrama Tecnológico y sus
 correciones.
 
-- [Complementos]()
+- [Complementos](https://github.com/JuanBui26/Pollen_Dryer/tree/main/Complementos)
 
 En este mismo apartado se adjuntan los avances que se vayan realizando en el desarollo y avance del proyecto.
 
@@ -42,6 +42,66 @@ En este mismo apartado se adjuntan los avances que se vayan realizando en el des
 
 ## Antecedentes del Proyecto
 
+El polen es una parte fundamental en el ciclo de reproducción de las plantas, y su importancia se extiende más allá del
+ámbito de la botánica, ya que tiene un impacto significativo en la agricultura, la ecología y la vida humana. La ingeniería
+desempeña un papel importante en relación con el polen y su estudio en varios contextos, pero para entenderlo será ecesario
+definir que es el polen y cuál es su importancia.
+
+### ¿Qué es el polen?
+El [polen](http://rema.atmosfera.unam.mx/rema/REMA_POLEN_INF.aspx) es un polvo fino y granular que se produce en las flores
+de las plantas con flores (angiospermas) y que contiene las células reproductoras masculinas de la planta. Estas células
+reproductoras, llamadas espermatozoides o gametos masculinos, son necesarias para la fertilización de las células
+reproductoras femeninas de la planta, que se encuentran en el óvulo de la flor. El polen es producido en las anteras, que
+son las partes masculinas de la flor, y luego es liberado al ambiente.
+
+![Polen](https://www.naturval.com/wp-content/uploads/2022/05/polen-scaled.jpg)
+
+### [Importancia del polen:](https://www.mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1980_08.pdf)
+
+- #### Reproducción de las plantas:
+La función principal del polen es permitir la reproducción sexual de las plantas. Cuando el polen se deposita en el estigma de una flor receptiva de la misma especie, comienza el proceso de fertilización. Los espermatozoides contenidos en el polen viajan a través del tubo polínico hasta llegar al óvulo, donde se fusionan con las células reproductoras femeninas. Este proceso da lugar a la formación de semillas, que son esenciales para la supervivencia y propagación de las plantas.
+
+- #### Polinización:
+El transporte de polen desde la flor masculina a la flor femenina se denomina polinización. Puede ocurrir a través del viento (polinización anemófila) o mediante la ayuda de polinizadores como insectos, aves, murciélagos y otros animales (polinización biótica). La polinización es un servicio ecológico crucial, ya que permite la reproducción de muchas plantas cultivadas y silvestres que son esenciales para la alimentación humana y la biodiversidad.
+
+- #### Agricultura:
+El polen desempeña un papel fundamental en la agricultura, ya que muchas plantas cultivadas dependen de la polinización para producir frutos y semillas. Cultivos importantes como frutas, verduras, frutos secos y cultivos comerciales (por ejemplo, almendras, manzanas, y café) requieren polinización para obtener rendimientos óptimos.
+
+- #### Biodiversidad: 
+La polinización también es esencial para mantener la biodiversidad en los ecosistemas naturales. Las plantas que dependen de polinizadores contribuyen a la alimentación y hábitat de muchas otras especies.
+
+- #### Investigación científica:
+El polen se utiliza en investigaciones científicas para estudiar la genética de las plantas, la evolución y la diversidad de especies vegetales. También es útil en la mejora de cultivos y la creación de variedades híbridas.
+
+Como se puede evidenciar, el polen es esencial para la reproducción de las plantas y tiene un impacto significativo en la agricultura, la ecología y la vida en la Tierra al contribuir a la producción de alimentos y a la conservación de la biodiversidad.
+
+Por su parte, la Ingeniería tiene un impacto grande en este proceso que se puede ver en algunos tópicos importantes:
+
+- Diseño de secadoras de polen
+- Tecnología de polinización artificial
+- Monitoreo y análisis del polen
+- Investigación genética
+- Sistemas de pronóstico de polen
+
+Del que nos interesa hablar en este artículo es del primero. Una secadora de polen es un equipo diseñado específicamente para el secado del polen de las flores y plantas de manera eficiente y controlada. Suele estar compuesta por los siguientes componentes:
+
+* Cámara de secado: Es el espacio principal donde se coloca el polen para su secado. Esta cámara está diseñada para mantener condiciones de temperatura y humedad controladas.
+
+* Sistema de calentamiento: La secadora de polen utiliza un sistema de calentamiento que puede ser eléctrico o de gas para elevar la temperatura dentro de la cámara de secado a niveles específicos.
+
+* Sistema de ventilación: Para asegurar una distribución uniforme del calor y la circulación del aire, la secadora de polen suele contar con un sistema de ventilación que distribuye el aire caliente de manera uniforme.
+
+* Controladores de temperatura y humedad: Estos componentes permiten al usuario ajustar y controlar las condiciones de secado, como la temperatura y la humedad, de acuerdo con las necesidades específicas.
+
+* Filtros de aire: Para evitar la contaminación del polen durante el proceso de secado, la secadora de polen puede incluir filtros de aire que purifican el aire que circula dentro de la cámara.
+
+* Temporizador o control automático: Algunas secadoras de polen cuentan con sistemas de control automático que permiten programar el tiempo de secado deseado.
+
+* Bandejas o estantes: En el interior de la cámara de secado, se suelen colocar bandejas o estantes para distribuir el polen de manera uniforme y facilitar su secado.
+
+* El proceso de secado del polen en una secadora de polen suele llevarse a cabo a temperaturas controladas y con un flujo de aire constante para garantizar la preservación de la viabilidad del polen y su almacenamiento a largo plazo.
+
+Cabe mencionar que los diseños específicos y las características de una secadora de polen pueden variar según el fabricante y el propósito de uso, pero en general, estas son las características comunes que encontrarás en este tipo de equipos.
 
 ## Objetivos de Desarrollo Sostenible
 
