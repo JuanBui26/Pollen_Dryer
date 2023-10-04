@@ -20,13 +20,13 @@ requerimientos y necesidades para su propia secadora de Polen.
 
 Aquí mismo se muestra el trabajo de investigación realizado en la planta:
 
-- [Planta Principal]()
+- [Planta Principal](https://github.com/JuanBui26/Pollen_Dryer/tree/main/Archivos)
 
 ## Anexos
 
 Se adjunta una referencia de cómo se esperaría que finalizara el proyecto.
 
-
+[Secadora de Polen Automática](https://comapis.com/producto/secador-de-polen-24kg-automatico-aluminio-forro-y-bandejas-acero-tecnoapis/)
 
 Del mismo modo, se da la dirección para poder dirigirse a los diagramas de Caja Negra, Diagrama Tecnológico y sus
 correciones.
