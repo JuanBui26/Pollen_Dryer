@@ -7,7 +7,7 @@ ingenierías y fomenta las habilidades sociales y comunicativas, así como la re
 
 - [Guía de Espositores]()
 
-- [Contenido del Poster](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Ingenia_Furturo/Instrucciones%20contenido%20del%20P%C3%B3ster.pdf) y [Forma del Poster]()
+- [Contenido del Poster](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Ingenia_Furturo/Instrucciones%20contenido%20del%20P%C3%B3ster.pdf) y [Forma del Poster](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Ingenia_Furturo/Instrucciones%20forma%20del%20P%C3%B3ster.pdf)
 
 - [Recomendaciones del Resumen]()
 
