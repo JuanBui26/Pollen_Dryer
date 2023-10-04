@@ -9,7 +9,7 @@ ingenierías y fomenta las habilidades sociales y comunicativas, así como la re
 
 - [Contenido del Poster](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Ingenia_Furturo/Instrucciones%20contenido%20del%20P%C3%B3ster.pdf) y [Forma del Poster](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Ingenia_Furturo/Instrucciones%20forma%20del%20P%C3%B3ster.pdf)
 
-- [Recomendaciones del Resumen]()
+- [Recomendaciones del Resumen](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Ingenia_Furturo/Recomendaciones%20resumen.pdf)
 
 Para complementar la información brindada y tener una idea de qué se busca en el encuentro de Ingeniería del 22 al 24 de
 noviembre de 2023 se recomienda revisar el siguiente enlace:
