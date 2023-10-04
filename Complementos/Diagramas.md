@@ -12,7 +12,7 @@ de la ingeniería, como la electrónica, la informática, la mecánica, la ingen
 
 A continuación se adjunta el enlace al diagrama de caja negra propuesto para este proyecto.
 
-![Diagrama de Caja Negra]()
+![Diagrama de Caja Negra](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Diagrama_Caja_Negra.png)
 
 A este Diagrama se le encontró varios errores por lo que, de acuerdo a las instrucciones e indicaciones del Ingeniero Johnny,
 se acomodó de la siguiente forma:
