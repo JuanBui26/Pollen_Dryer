@@ -21,8 +21,8 @@ se acomodó de la siguiente forma:
 
 ![Corrección Diagrama de Caja Negra: Secador de Polen](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Complementos/Diagrama_Caja_Negra_Corregido.png)
 
-- [Corrección Diagrama Tecnológico]()
+- [Corrección Diagrama Tecnológico](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Complementos/Diagrama_Tecnol%C3%B3gico.png)
 
-![Corrección_1_Secador de Polen]()
+![Corrección_1_Secador de Polen](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Complementos/Diagrama_Tecnol%C3%B3gico.png)
 
 
