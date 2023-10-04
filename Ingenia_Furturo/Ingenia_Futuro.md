@@ -14,4 +14,4 @@ ingenierías y fomenta las habilidades sociales y comunicativas, así como la re
 Para complementar la información brindada y tener una idea de qué se busca en el encuentro de Ingeniería del 22 al 24 de
 noviembre de 2023 se recomienda revisar el siguiente enlace:
 
-[Proyectos y prototipos Ingeniería UNAL]()
+[Proyectos y Prototipos Ingeniería UNAL]()
