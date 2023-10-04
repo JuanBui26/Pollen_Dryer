@@ -1,4 +1,4 @@
-# Ponencia del Proyecto
+# Ingenia Futuro
 
 En el siguiente apartado se va a adjuntar los diferentes avances y archivos que son necesarios para poder ser participes activos
 de Ingenia Futuro, un espacio para compartir conocimientos producidos por la comunidad académica de la Facultad de Ingeniería en 
