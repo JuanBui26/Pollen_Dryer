@@ -119,7 +119,7 @@ Buscando que nuestro proyecto se ajuste a algunos de los Objetivos de Desarrollo
 
   Los avances y evidencias de esta participación se eencuentran en la siguiente carpeta:
 
-  - [Ingenia Futuro]()
+  - [Ingenia Futuro](https://github.com/JuanBui26/Pollen_Dryer/blob/main/Ingenia_Furturo/Ingenia_Futuro.md)
 
   ## Referencias
 
